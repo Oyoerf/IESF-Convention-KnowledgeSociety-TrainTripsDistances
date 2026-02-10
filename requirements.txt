@@ -1,0 +1,15 @@
+# Traitement de fichiers Excel
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Extraction de données depuis PDF
+pdfplumber>=0.10.0
+
+# Géocodage (conversion villes en coordonnées GPS)
+geopy>=2.4.0
+
+# Requêtes HTTP pour l'API SNCF
+requests>=2.31.0
+
+# Optionnel mais recommandé pour de meilleures performances
+xlrd>=2.0.1
